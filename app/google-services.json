@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "210025126065",
+    "project_id": "miniprojectyogify",
+    "storage_bucket": "miniprojectyogify.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:210025126065:android:6bf00c5eaa35a12f206a90",
+        "android_client_info": {
+          "package_name": "com.example.miniproject_yogify"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "210025126065-0f6dc4c7224ammiq1uhnmjd1gc4e2gug.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCLw6mjY7xDkhNrkRpPYMuB3brwQu0Z6Vk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "210025126065-0f6dc4c7224ammiq1uhnmjd1gc4e2gug.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

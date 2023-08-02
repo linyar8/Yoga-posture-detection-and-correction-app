@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:title="MODIFY"
+        android:id="@+id/orderpage_menu_modify"
+        />
+    <item
+        android:title="REMOVE"
+        android:id="@+id/orderpage_menu_remove"
+        />
+</menu>
